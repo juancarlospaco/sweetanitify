@@ -4,7 +4,7 @@
 
 [<img src="https://img.youtube.com/vi/tiw3rVi8oz0/maxresdefault.jpg" width="99%">](https://youtu.be/tiw3rVi8oz0 "Click here to understand whats this!")
 
-![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp2.jpg "Sweet_Anita for any Windows! (50Kb, No DotNet required)")
+![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp2.jpg "Sweet_Anita for Windows! (50Kb, any version of Windows)")
 
 ![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp.jpg "Sweet_Anita for Linux! (50Kb, any Distro)")
 

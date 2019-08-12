@@ -75,5 +75,6 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 
 This is [FanArt](https://wikipedia.org/wiki/Fan_art). Its Free $0 cost. 
 Its not associated in any way with [Sweet_Anita](http://www.twitch.tv/sweet_anita).
+The example text on screenshots contain misspelling on purpose.
 
 </details>

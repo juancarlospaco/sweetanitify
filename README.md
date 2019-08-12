@@ -76,6 +76,12 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 This is [FanArt](https://wikipedia.org/wiki/Fan_art). Its Free $0 cost. 
 Its not associated in any way with [Sweet_Anita](http://www.twitch.tv/sweet_anita).
 
+Designed to raise awareness of [Tourette syndrome](http://wikipedia.org/wiki/Tourette_syndrome).
+
+Designed for [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & [Fake Data Generator](https://en.wikipedia.org/wiki/Mock_object).
+
+I can not find [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) tools on GitHub (as of 2019).
+
 The example text on screenshots contain misspelling on purpose.
 
 </details>

@@ -67,3 +67,11 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 - ✅ GNU Hurd
 - ✅ TempleOS
 - ✅ Anything that can compile C.
+
+
+<details>
+  <summary> Disclaimer </summary>
+
+This is FanArt. Its Free $0 cost. Its not associated in any way with Sweet_Anita.
+
+</details>

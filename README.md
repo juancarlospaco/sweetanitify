@@ -78,6 +78,7 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 - Its a Virus?.
 
 [The source code is on this repo](https://github.com/juancarlospaco/sweetanitify/blob/master/src/sweetanitify.nim), so is impossible for it to be Virus.
+You can compile the thing yourself too.
 
 - How much it cost?, Price?.
 

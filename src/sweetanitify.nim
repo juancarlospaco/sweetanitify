@@ -166,12 +166,12 @@ proc sweetAnitify*(text: string): string =
     ", you inspire my cock",
     ", I smell a virgin",
   ] # Order of array is not important. Starting strings with ", " is important.
-  if unlikely(text.len == 0): return    # Just return if its empty string
-  elif text.countLines > 2:             # BTW do Not {.inline.} this function
+  if unlikely(text.len == 0): return # Just return if its empty string
+  elif text.countLines > 2: # BTW do Not {.inline.} this function
     for line in text.splitLines:
       result.add line & sample(replacements) & "\n" # Multi-line add 1 per line
   else:
-    result = text & sample(replacements)            # Single-line add 1 total
+    result = text & sample(replacements) # Single-line add 1 total
 
 
 when isMainModule:

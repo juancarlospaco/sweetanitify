@@ -14,6 +14,21 @@
 - https://www.youtube.com/channel/UCl4RpXZdQUhikTxBghAy1jQ
 
 
+# Use
+
+```console
+$ ./sweetanitify
+USE:
+    ./sweetanitify "This text will be Sweet_Anita-ified"
+
+$ ./sweetanitify This text will be Sweet_Anita-ified
+This text will be Sweet_Anita-ified, my dick is on fire
+
+$ ./sweetanitify Help spread awareness about Tourettes
+Help spread awareness about Tourettes, I do think that space exploration is the reason why my cunt is on fire
+```
+
+
 # Install
 
 - [**Download it!.**](https://github.com/juancarlospaco/sweetanitify/releases)

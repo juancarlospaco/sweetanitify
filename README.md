@@ -1,7 +1,8 @@
 # Sweet_Anita Translator
 
-- [Sweet_Anita](http://www.twitch.tv/sweet_anita) Translator, bitch.
+- [Sweet_Anita](http://www.twitch.tv/sweet_anita) Translator, no Internet (Offline), Windows/Linux, App/Lib, [Pull Requests welcome](https://github.com/juancarlospaco/sweetanitify/pulls), bitch.
 
+[<img src="https://img.youtube.com/vi/tiw3rVi8oz0/maxresdefault.jpg" width="99%">](https://youtu.be/tiw3rVi8oz0 "Click here to understand whats this!")
 
 ![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp2.jpg "Sweet_Anita for Windows! (50Kb)")
 
@@ -73,12 +74,14 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 <details>
   <summary> Disclaimer </summary>
 
-This is [FanArt](https://wikipedia.org/wiki/Fan_art). Its Free $0 cost. 
+
+This is [FanArt](https://wikipedia.org/wiki/Fan_art). Its Free $0 cost.
 Its not associated in any way with [Sweet_Anita](http://www.twitch.tv/sweet_anita).
 
 The idea is to raise awareness of [Tourette syndrome](http://wikipedia.org/wiki/Tourette_syndrome).
 
-Designed for [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & [Fake Data Generator](https://en.wikipedia.org/wiki/Mock_object).
+Designed for [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) &
+[Fake Data Generator](https://en.wikipedia.org/wiki/Mock_object).
 
 I can not find [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) tools on GitHub (as of 2019).
 

@@ -1,6 +1,6 @@
 # Sweet_Anita Translator
 
-- [Sweet_Anita](http://www.twitch.tv/sweet_anita) Translator, no Internet (Offline), Windows/Linux, App/Lib, [Pull Requests welcome](https://github.com/juancarlospaco/sweetanitify/pulls), bitch.
+- [Sweet_Anita](http://www.twitch.tv/sweet_anita) Translator, bitch.
 
 [<img src="https://img.youtube.com/vi/tiw3rVi8oz0/maxresdefault.jpg" width="99%">](https://youtu.be/tiw3rVi8oz0 "Click here to understand whats this!")
 
@@ -31,6 +31,8 @@ This text will be Sweet_Anita-ified, my dick is on fire
 $ ./sweetanitify Help spread awareness about Tourettes
 Help spread awareness about Tourettes, I do think that space exploration is the reason why my cunt is on fire
 ```
+
+- [Pull Requests welcome](https://github.com/juancarlospaco/sweetanitify/pulls)
 
 
 # Install

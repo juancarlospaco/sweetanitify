@@ -2,7 +2,7 @@
 
 - [Sweet_Anita](http://www.twitch.tv/sweet_anita) Translator, bitch.
 
-![](temp.jpg)
+![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp.jpg)
 
 
 # Who

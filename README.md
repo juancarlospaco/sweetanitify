@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp.jpg "Sweet_Anita for Linux! (50Kb)")
 
+![](https://raw.githubusercontent.com/juancarlospaco/sweetanitify/master/temp2.jpg "Sweet_Anita for Windows! (50Kb)")
+
 
 # Who
 

@@ -87,6 +87,13 @@ $ `0`
 
 Yes.
 
+- How to send Contributions, Improvements, more Anitas phrases?.
+
+[Send a Pull Request](https://github.com/juancarlospaco/sweetanitify/pulls), 
+[please include the link to the Anitas VOD on Twitch](https://www.twitch.tv/sweet_anita/clips) to prove is her phrases.
+
+You must know coding.
+
 
 <details>
   <summary> Disclaimer </summary>

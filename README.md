@@ -73,6 +73,17 @@ Help spread awareness about Tourettes, I do think that space exploration is the 
 - ✅ Anything that can compile C.
 
 
+# FAQ
+
+- Is it a Virus?.
+
+The source code is on this repo, so is impossible for it to be Virus.
+
+- How much it cost?, Price?.
+
+$ `0`
+
+
 <details>
   <summary> Disclaimer </summary>
 

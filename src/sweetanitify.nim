@@ -165,6 +165,8 @@ proc sweetAnitify*(text: string): string =
     ", I have a tasty cock",
     ", you inspire my cock",
     ", I smell a virgin",
+    ", send bombs and vagina",
+    ", can you look at my cunt?",
   ] # Order of array is not important. Starting strings with ", " is important.
   if unlikely(text.len == 0): return # Just return if its empty string
   elif text.countLines > 2: # BTW do Not {.inline.} this function
